@@ -1,0 +1,7 @@
+JavaScript -> Programming Language
+Programming Language -> Language between computer and human
+2 Typers of Programming
+- compiled Language -> Java, C, C++, ...
+- Interpreter Language -> JavaScript, PHP, Python, Ruby
+JavaScript
+-  Client-side Script
